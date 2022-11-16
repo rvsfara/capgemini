@@ -15,3 +15,7 @@ UPDATE CLIENTES SET NOME = 'Jose da Silva Santos', CPF = '00100100101', EMAIL=
 'josedasilva@yahoo.com.br'
 WHERE ID = 2;
 
+INSERT INTO CLIENTES(NOME, CPF, EMAIL) VALUES
+('Macarena','00000000002','macarena@gmail.com');
+
+
